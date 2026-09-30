@@ -1,0 +1,1191 @@
+[
+  {
+    "id": "3-019",
+    "name": "绩效分析查询mcp",
+    "nodeId": "3:019",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_eab6f235.svg",
+        "sha256": "16e1aaa5ff7a185e32767dee7c053762010b2ab4d01a71915307f677775af1a6",
+        "logicalPath": "./asset/icons/svg_eab6f235.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "绩效",
+      "查询",
+      "MCP",
+      "业绩",
+      "服务查询"
+    ],
+    "shape": "折线屏幕",
+    "suggestedUse": "绩效查询服务；与通用绩效分析分开",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-019.png",
+    "composition": "assets/compositions/3-019.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#E1E7EB",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFEFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [
+        "0.75",
+        "0.8888888955116272",
+        "1"
+      ],
+      "radii": [
+        "0",
+        "1.6000001430511475",
+        "2.2222222983837128",
+        "2.6666667461395264"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_eab6f235.svg"
+  },
+  {
+    "id": "3-253",
+    "name": "私募产品评价报告",
+    "nodeId": "3:253",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_7fe20bd3.svg",
+        "sha256": "e9747f0571eed09fbe9554f7fe7c04c74e0f6c09185c22fcddfa7b7aefc7c2e1",
+        "logicalPath": "./asset/icons/svg_7fe20bd3.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "私募",
+      "产品",
+      "评价",
+      "报告",
+      "基金评估"
+    ],
+    "shape": "文档",
+    "suggestedUse": "私募产品评价报告；不等同于研报查询",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-253.png",
+    "composition": "assets/compositions/3-253.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#E1E7EB",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFEFF"
+      ],
+      "strokeWidths": [
+        "0.75"
+      ],
+      "radii": [
+        "0",
+        "2.6666667461395264"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_7fe20bd3.svg"
+  },
+  {
+    "id": "3-183",
+    "name": "运营数据分析",
+    "nodeId": "3:183",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_3254379f.svg",
+        "sha256": "96b8450d6384dbfd4876f036a8e7245fc6f753b4b34a5ad9dc13935206538509",
+        "logicalPath": "./asset/icons/svg_3254379f.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "运营",
+      "数据",
+      "分析",
+      "经营",
+      "统计"
+    ],
+    "shape": "节点折线屏幕",
+    "suggestedUse": "运营分析；与运营数据入口分开",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-183.png",
+    "composition": "assets/compositions/3-183.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#E1E7EB",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [
+        "0.75",
+        "0.8888888955116272"
+      ],
+      "radii": [
+        "0",
+        "2.2222222983837128",
+        "2.6666667461395264"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_3254379f.svg"
+  },
+  {
+    "id": "3-120",
+    "name": "每日复盘",
+    "nodeId": "3:120",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_dd0713e7.svg",
+        "sha256": "aeee420c645a890d640230919168243bc4f6cc915999bfda707df2802ce978be",
+        "logicalPath": "./asset/icons/svg_dd0713e7.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "每日",
+      "复盘",
+      "日报",
+      "回顾"
+    ],
+    "shape": "双人",
+    "suggestedUse": "每日复盘；双人造型，与市场每日复盘区分，不因此挪用于联系人",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-120.png",
+    "composition": "assets/compositions/3-120.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF"
+      ],
+      "strokeWidths": [],
+      "radii": [
+        "0"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_dd0713e7.svg"
+  },
+  {
+    "id": "3-276",
+    "name": "个股盈利预测",
+    "nodeId": "3:276",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_e355b415.svg",
+        "sha256": "a0156585534ebaf0bfca256887e9b52da96f5744ccf2bf03062dbb95249dccd2",
+        "logicalPath": "./asset/icons/svg_e355b415.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "个股",
+      "盈利",
+      "预测",
+      "利润",
+      "EPS"
+    ],
+    "shape": "柱状图屏幕",
+    "suggestedUse": "个股盈利预测；不等同于公司估值",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-276.png",
+    "composition": "assets/compositions/3-276.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#E1E7EB",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FBFDFF"
+      ],
+      "strokeWidths": [
+        "0.75"
+      ],
+      "radii": [
+        "0",
+        "1.6000001430511475"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_e355b415.svg"
+  },
+  {
+    "id": "3-129",
+    "name": "A股情绪指数",
+    "nodeId": "3:129",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_70c73582.svg",
+        "sha256": "f5822566dcd5c36050c46bab61de5fb9ddac6daa538cf8ec2fb84c70c654309d",
+        "logicalPath": "./asset/icons/svg_70c73582.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "A股",
+      "情绪",
+      "指数",
+      "市场情绪"
+    ],
+    "shape": "笑脸圆形",
+    "suggestedUse": "A股情绪指数；不默认覆盖港股",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-129.png",
+    "composition": "assets/compositions/3-129.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [
+        "0.557891845703125"
+      ],
+      "radii": [
+        "0",
+        "13.5",
+        "15.846054077148438",
+        "16.125",
+        "75"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_70c73582.svg"
+  },
+  {
+    "id": "3-069",
+    "name": "市场每日复盘",
+    "nodeId": "3:069",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_45ad140e.svg",
+        "sha256": "4f4852c65ba988b3938cb4b2cd768ed059600fd4ff1e85d00ff348cafcf4a8dd",
+        "logicalPath": "./asset/icons/svg_45ad140e.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "市场",
+      "每日",
+      "复盘",
+      "市场复盘",
+      "日历"
+    ],
+    "shape": "日历",
+    "suggestedUse": "市场每日复盘；日历造型，与双人造型的每日复盘区分",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-069.png",
+    "composition": "assets/compositions/3-069.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#E1E7EB",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFEFF"
+      ],
+      "strokeWidths": [
+        "0.75",
+        "0.8888888955116272"
+      ],
+      "radii": [
+        "0",
+        "2.1805555522441864",
+        "2.625",
+        "2.6666667461395264",
+        "3.11111119389534"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_45ad140e.svg"
+  },
+  {
+    "id": "3-33",
+    "name": "A股资金面",
+    "nodeId": "3:33",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_c4cb82d7.svg",
+        "sha256": "c413cb74d538fdb547c5c1e0cee0a273f23fb1de3864ace28fc02cd6f9b1af9d",
+        "logicalPath": "./asset/icons/svg_c4cb82d7.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "A股",
+      "资金面",
+      "钱袋",
+      "资金袋"
+    ],
+    "shape": "钱袋",
+    "suggestedUse": "A股资金面；当前唯一资金面图标，不与市场每日复盘混用",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-33.png",
+    "composition": "assets/compositions/3-33.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [],
+      "radii": [
+        "0"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_c4cb82d7.svg"
+  },
+  {
+    "id": "3-218",
+    "name": "港股资金面",
+    "nodeId": "3:218",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_ef8011e8.svg",
+        "sha256": "0d4110b33f8a4e6fa110881d1c295d31911cd9b07c195e611750a51f616c2740",
+        "logicalPath": "./asset/icons/svg_ef8011e8.svg"
+      }
+    ],
+    "kind": "composition",
+    "keywords": [
+      "港股",
+      "资金面",
+      "H",
+      "香港"
+    ],
+    "shape": "H 圆形",
+    "suggestedUse": "港股资金面；不替代 A 股资金面",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-218.png",
+    "composition": "assets/compositions/3-218.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#F8FFFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [
+        "0.5834140181541443"
+      ],
+      "radii": [
+        "14.708232909440994",
+        "14.70823386311531",
+        "14.999939918518066",
+        "14.999940872192383"
+      ],
+      "filters": []
+    },
+    "reusePath": "assets/compositions/3-218.html",
+    "adaptation": "组合包装中将组 1072 的 left 从35px改为0px；原始SVG及sourceHtml不变。"
+  },
+  {
+    "id": "3-333",
+    "name": "基金服务",
+    "nodeId": "3:333",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_74300c70.svg",
+        "sha256": "939ef8c2ac281c730571a8a63cb46d2e6a7d54a5e21d0f46cb98b96626cdd374",
+        "logicalPath": "./asset/icons/svg_74300c70.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "基金",
+      "服务",
+      "净值",
+      "基金业务"
+    ],
+    "shape": "叠层趋势图",
+    "suggestedUse": "基金服务；不等同于私募产品评价",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-333.png",
+    "composition": "assets/compositions/3-333.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [
+        "1.210402011871338"
+      ],
+      "radii": [
+        "0",
+        "3.0260050296783447",
+        "3.6312060356140137"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_74300c70.svg"
+  },
+  {
+    "id": "3-170",
+    "name": "A股与基本选股因子",
+    "nodeId": "3:170",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_cbb8cf6a.svg",
+        "sha256": "8fe8e4ff58b1acfe2836a56b376228df0cd5fc23bf7d56000990761331fa7d65",
+        "logicalPath": "./asset/icons/svg_cbb8cf6a.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "A股",
+      "基本",
+      "选股",
+      "因子",
+      "基本面"
+    ],
+    "shape": "立方体分叉",
+    "suggestedUse": "源名称为 A股与基本选股因子；不要擅改名称",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-170.png",
+    "composition": "assets/compositions/3-170.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [],
+      "radii": [
+        "0"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_cbb8cf6a.svg"
+  },
+  {
+    "id": "3-23",
+    "name": "港股选股因子",
+    "nodeId": "3:23",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_5aeb3c6f.svg",
+        "sha256": "790c0a2bb7c28c273d68c5934eb8af627f6f7ac85dc4c8fe3ca5925528ab16bd",
+        "logicalPath": "./asset/icons/svg_5aeb3c6f.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "港股",
+      "选股",
+      "因子",
+      "筛选",
+      "香港"
+    ],
+    "shape": "漏斗圆形",
+    "suggestedUse": "港股选股因子；不作通用筛选控件",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-23.png",
+    "composition": "assets/compositions/3-23.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [],
+      "radii": [
+        "0",
+        "1.1513158082962036",
+        "2.763158082962036",
+        "8.519736289978027"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_5aeb3c6f.svg"
+  },
+  {
+    "id": "3-200",
+    "name": "专业研报查询",
+    "nodeId": "3:200",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_f318beee.svg",
+        "sha256": "0f4deea43376627d914acfb80c931093bc6c2e39b8679590b686de2ccc56c075",
+        "logicalPath": "./asset/icons/svg_f318beee.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "专业",
+      "研报",
+      "查询",
+      "研究报告"
+    ],
+    "shape": "叠层文档",
+    "suggestedUse": "研报查询；不等同于私募评价报告",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-200.png",
+    "composition": "assets/compositions/3-200.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#E1E7EB",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFEFF"
+      ],
+      "strokeWidths": [
+        "0.75",
+        "0.8888888955116272"
+      ],
+      "radii": [
+        "0",
+        "2.2222222983837128",
+        "2.6666667461395264"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_f318beee.svg"
+  },
+  {
+    "id": "3-138",
+    "name": "托管估值核算",
+    "nodeId": "3:138",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_d704d616.svg",
+        "sha256": "b2401e639085a8659c8fd58259aab4549eca71992c76d99d5ce310a2baf8e2ef",
+        "logicalPath": "./asset/icons/svg_d704d616.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "托管",
+      "估值",
+      "核算",
+      "会计",
+      "计算"
+    ],
+    "shape": "计算器",
+    "suggestedUse": "托管估值核算；不等同于公司估值模型",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-138.png",
+    "composition": "assets/compositions/3-138.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [
+        "0.5333333611488342"
+      ],
+      "radii": [
+        "0",
+        "1.3333334624767303",
+        "1.6000001430511475",
+        "2.6666667461395264"
+      ],
+      "filters": []
+    },
+    "reusePath": "assets/originals/svg_d704d616.svg"
+  },
+  {
+    "id": "3-109",
+    "name": "公司估值模型",
+    "nodeId": "3:109",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_96acbdd3.svg",
+        "sha256": "6483b0c8a274ea0fb1ecff006f638ced16da41cc56b52716c63c7412b6a4c78b",
+        "logicalPath": "./asset/icons/svg_96acbdd3.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "公司",
+      "估值",
+      "模型",
+      "企业估值"
+    ],
+    "shape": "建筑",
+    "suggestedUse": "公司估值模型；不等同于企业概况",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-109.png",
+    "composition": "assets/compositions/3-109.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFEFF"
+      ],
+      "strokeWidths": [],
+      "radii": [
+        "0"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_96acbdd3.svg"
+  },
+  {
+    "id": "3-84",
+    "name": "ETF套利监控",
+    "nodeId": "3:84",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_878e21df.svg",
+        "sha256": "e1ecac877fa9b138d887889556b23d76fc9f73b449a369d9326df6655c63afd9",
+        "logicalPath": "./asset/icons/svg_878e21df.svg"
+      },
+      {
+        "path": "assets/originals/svg_8e22026d.svg",
+        "sha256": "8fb8d6b708c41a8532c57680582d1cee75da8db0f2ebd45bc5a94be62e0a9b7c",
+        "logicalPath": "./asset/icons/svg_8e22026d.svg"
+      },
+      {
+        "path": "assets/originals/svg_b99e934b.svg",
+        "sha256": "3063fd97a9ee05e575c0e318893ae5a5b4db9a11346a6982cb92eeb025b1d8ed",
+        "logicalPath": "./asset/icons/svg_b99e934b.svg"
+      }
+    ],
+    "kind": "composition",
+    "keywords": [
+      "ETF",
+      "套利",
+      "监控",
+      "价差"
+    ],
+    "shape": "ETF 屏幕",
+    "suggestedUse": "ETF 套利监控；不泛化成 ETF 全部功能",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-84.png",
+    "composition": "assets/compositions/3-84.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#F8FFFF"
+      ],
+      "strokeWidths": [],
+      "radii": [],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/compositions/3-84.html"
+  },
+  {
+    "id": "3-44",
+    "name": "合规风险引擎",
+    "nodeId": "3:44",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_5dd2781c.svg",
+        "sha256": "cd119b6c9a8a3dcb024152a1e97fa816e342bbcb15402cdcb35c3b15422bcd96",
+        "logicalPath": "./asset/icons/svg_5dd2781c.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "合规",
+      "风险",
+      "引擎",
+      "风控"
+    ],
+    "shape": "闪电盾牌",
+    "suggestedUse": "合规风险引擎；不表示已经通过合规审查",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-44.png",
+    "composition": "assets/compositions/3-44.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#E1E7EB",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [
+        "0.75"
+      ],
+      "radii": [
+        "0"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_5dd2781c.svg"
+  },
+  {
+    "id": "3-299",
+    "name": "企业概况查询",
+    "nodeId": "3:299",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_43d7c3b1.svg",
+        "sha256": "2457d767fe8f459dd69e9b253859d34a150ec50cb1cbd7a904c6a4f91132cc15",
+        "logicalPath": "./asset/icons/svg_43d7c3b1.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "企业",
+      "概况",
+      "查询",
+      "公司资料"
+    ],
+    "shape": "放大镜六边形",
+    "suggestedUse": "企业概况查询；不等同于公司估值",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-299.png",
+    "composition": "assets/compositions/3-299.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#E1E7EB",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [
+        "0.75"
+      ],
+      "radii": [
+        "0"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_43d7c3b1.svg"
+  },
+  {
+    "id": "3-089",
+    "name": "市值诊断",
+    "nodeId": "3:089",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_6e1afee1.svg",
+        "sha256": "b884bda7e34ce9a011901f98b2397811a7e170ac2aa4eb2e7237084b98d07fe7",
+        "logicalPath": "./asset/icons/svg_6e1afee1.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "市值",
+      "诊断",
+      "价值诊断"
+    ],
+    "shape": "人民币拼块",
+    "suggestedUse": "市值诊断；不等同于资金面",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-089.png",
+    "composition": "assets/compositions/3-089.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#E1E7EB",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [
+        "0.75"
+      ],
+      "radii": [
+        "0",
+        "2.6666667461395264"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_6e1afee1.svg"
+  },
+  {
+    "id": "3-150",
+    "name": "投关问答",
+    "nodeId": "3:150",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_842bc29d.svg",
+        "sha256": "03ded11e3b128f82d9f1ce08eeb83b47a310d48ab4725382463c7548815dff55",
+        "logicalPath": "./asset/icons/svg_842bc29d.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "投关",
+      "问答",
+      "投资者关系",
+      "IR"
+    ],
+    "shape": "对话圆形",
+    "suggestedUse": "投资者关系问答；不作为通用客服",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-150.png",
+    "composition": "assets/compositions/3-150.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#E1E7EB",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFEFF"
+      ],
+      "strokeWidths": [
+        "0.75"
+      ],
+      "radii": [
+        "0",
+        "13.333333969116211"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_842bc29d.svg"
+  },
+  {
+    "id": "3-320",
+    "name": "期权服务",
+    "nodeId": "3:320",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_950cd348.svg",
+        "sha256": "5eed47510d5a5e84731ab4ee048b1d037466c1e74435d582806ddddc41cccd42",
+        "logicalPath": "./asset/icons/svg_950cd348.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "期权",
+      "服务",
+      "衍生品期权"
+    ],
+    "shape": "蜡烛图文档",
+    "suggestedUse": "期权服务；不扩大为期货服务",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-320.png",
+    "composition": "assets/compositions/3-320.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [],
+      "radii": [
+        "0",
+        "2.6666667461395264"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_950cd348.svg"
+  },
+  {
+    "id": "3-6",
+    "name": "绩效分析",
+    "nodeId": "3:6",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_bd93b694.svg",
+        "sha256": "1a9b0efc281589dfec7c41eb2ad56bab4c9e4344a041ac33b4ecc6d319f251f8",
+        "logicalPath": "./asset/icons/svg_bd93b694.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "绩效",
+      "分析",
+      "业绩",
+      "表现"
+    ],
+    "shape": "六边形柱图",
+    "suggestedUse": "通用绩效分析；MCP 查询需求优先 3:019",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-6.png",
+    "composition": "assets/compositions/3-6.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [],
+      "radii": [
+        "0"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_bd93b694.svg"
+  },
+  {
+    "id": "3-67",
+    "name": "运营数据",
+    "nodeId": "3:67",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_c55d7716.svg",
+        "sha256": "36a6536721e5b92720829b5d22d5ae3329824494f6f776ed64b0aa069624a618",
+        "logicalPath": "./asset/icons/svg_c55d7716.svg"
+      }
+    ],
+    "kind": "svg",
+    "keywords": [
+      "运营",
+      "数据",
+      "经营数据"
+    ],
+    "shape": "波形卡片",
+    "suggestedUse": "运营数据入口；分析需求优先 3:183",
+    "semanticEvidence": "图层名称及原稿视觉；业务用途为检索建议，非业务定义",
+    "preview": "assets/previews/3-67.png",
+    "composition": "assets/compositions/3-67.html",
+    "statusVariants": "未提供",
+    "sizeVariants": "未提供",
+    "observedSvg": {
+      "colors": [
+        "#0D59C4",
+        "#85AAFE",
+        "#E1E7EB",
+        "#EEEFFF",
+        "#F5F7FF",
+        "#F8FFFF",
+        "#FFFFFF"
+      ],
+      "strokeWidths": [
+        "0.75",
+        "0.8888888955116272"
+      ],
+      "radii": [
+        "0",
+        "1.5555555522441864",
+        "2"
+      ],
+      "filters": [
+        "feGaussianBlur"
+      ]
+    },
+    "reusePath": "assets/originals/svg_c55d7716.svg"
+  }
+]

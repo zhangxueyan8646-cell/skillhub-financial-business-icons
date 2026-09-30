@@ -1,0 +1,403 @@
+[
+  {
+    "id": "3-019",
+    "name": "绩效分析查询mcp",
+    "nodeId": "3:019",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_eab6f235.svg",
+        "sha256": "16e1aaa5ff7a185e32767dee7c053762010b2ab4d01a71915307f677775af1a6",
+        "logicalPath": "./asset/icons/svg_eab6f235.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_eab6f235.svg\"\n  data-node-id=\"3:019\"\n  data-name=\"绩效分析查询mcp\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-253",
+    "name": "私募产品评价报告",
+    "nodeId": "3:253",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_7fe20bd3.svg",
+        "sha256": "e9747f0571eed09fbe9554f7fe7c04c74e0f6c09185c22fcddfa7b7aefc7c2e1",
+        "logicalPath": "./asset/icons/svg_7fe20bd3.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_7fe20bd3.svg\"\n  data-node-id=\"3:253\"\n  data-name=\"私募产品评价报告\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-183",
+    "name": "运营数据分析",
+    "nodeId": "3:183",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_3254379f.svg",
+        "sha256": "96b8450d6384dbfd4876f036a8e7245fc6f753b4b34a5ad9dc13935206538509",
+        "logicalPath": "./asset/icons/svg_3254379f.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_3254379f.svg\"\n  data-node-id=\"3:183\"\n  data-name=\"运营数据分析\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-120",
+    "name": "每日复盘",
+    "nodeId": "3:120",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_dd0713e7.svg",
+        "sha256": "aeee420c645a890d640230919168243bc4f6cc915999bfda707df2802ce978be",
+        "logicalPath": "./asset/icons/svg_dd0713e7.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_dd0713e7.svg\"\n  data-node-id=\"3:120\"\n  data-name=\"每日复盘\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-276",
+    "name": "个股盈利预测",
+    "nodeId": "3:276",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_e355b415.svg",
+        "sha256": "a0156585534ebaf0bfca256887e9b52da96f5744ccf2bf03062dbb95249dccd2",
+        "logicalPath": "./asset/icons/svg_e355b415.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_e355b415.svg\"\n  data-node-id=\"3:276\"\n  data-name=\"个股盈利预测\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-129",
+    "name": "A股情绪指数",
+    "nodeId": "3:129",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_70c73582.svg",
+        "sha256": "f5822566dcd5c36050c46bab61de5fb9ddac6daa538cf8ec2fb84c70c654309d",
+        "logicalPath": "./asset/icons/svg_70c73582.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_70c73582.svg\"\n  data-node-id=\"3:129\"\n  data-name=\"A股情绪指数\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-069",
+    "name": "市场每日复盘",
+    "nodeId": "3:069",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_45ad140e.svg",
+        "sha256": "4f4852c65ba988b3938cb4b2cd768ed059600fd4ff1e85d00ff348cafcf4a8dd",
+        "logicalPath": "./asset/icons/svg_45ad140e.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_45ad140e.svg\"\n  data-node-id=\"3:069\"\n  data-name=\"市场每日复盘\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-33",
+    "name": "A股资金面",
+    "nodeId": "3:33",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_c4cb82d7.svg",
+        "sha256": "c413cb74d538fdb547c5c1e0cee0a273f23fb1de3864ace28fc02cd6f9b1af9d",
+        "logicalPath": "./asset/icons/svg_c4cb82d7.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_c4cb82d7.svg\"\n  data-node-id=\"3:33\"\n  data-name=\"A股资金面\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-218",
+    "name": "港股资金面",
+    "nodeId": "3:218",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_ef8011e8.svg",
+        "sha256": "0d4110b33f8a4e6fa110881d1c295d31911cd9b07c195e611750a51f616c2740",
+        "logicalPath": "./asset/icons/svg_ef8011e8.svg"
+      }
+    ],
+    "sourceHtml": "<div\n  data-node-id=\"3:218\"\n  data-name=\"港股资金面\"\n  style=\"width: 60px; height: 60px; overflow: hidden; position: relative\">\n  <div\n    data-node-id=\"3:234\"\n    data-name=\"矩形 112\"\n    style=\"width: 60px; height: 60px; background: linear-gradient(180deg, #F5F7FF 0%, #EEEFFF 100%); position: absolute; left: 0px; top: 0px; z-index: 0\"></div>\n  <div\n    data-node-id=\"3:220\"\n    data-name=\"组 1076\"\n    style=\"width: 35px; height: 35.13px; position: absolute; left: 13px; top: 13px; z-index: 1\">\n    <div\n      data-node-id=\"3:226\"\n      data-name=\"组 1072\"\n      style=\"position: absolute; left: 35px; top: 0px; z-index: 0\">\n      <img src=\"./asset/icons/svg_ef8011e8.svg\" />\n    </div>\n    <span\n      data-node-id=\"3:221\"\n      data-name=\"H\"\n      style=\"color: #FFFFFF; font-size: 17.5px; font-family: PingFang SC; font-weight: 600; line-height: 24px; position: absolute; left: 9px; top: 8px; z-index: 1\">\n      H\n    </span>\n  </div>\n</div>\n"
+  },
+  {
+    "id": "3-333",
+    "name": "基金服务",
+    "nodeId": "3:333",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_74300c70.svg",
+        "sha256": "939ef8c2ac281c730571a8a63cb46d2e6a7d54a5e21d0f46cb98b96626cdd374",
+        "logicalPath": "./asset/icons/svg_74300c70.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_74300c70.svg\"\n  data-node-id=\"3:333\"\n  data-name=\"基金服务\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-170",
+    "name": "A股与基本选股因子",
+    "nodeId": "3:170",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_cbb8cf6a.svg",
+        "sha256": "8fe8e4ff58b1acfe2836a56b376228df0cd5fc23bf7d56000990761331fa7d65",
+        "logicalPath": "./asset/icons/svg_cbb8cf6a.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_cbb8cf6a.svg\"\n  data-node-id=\"3:170\"\n  data-name=\"A股与基本选股因子\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-23",
+    "name": "港股选股因子",
+    "nodeId": "3:23",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_5aeb3c6f.svg",
+        "sha256": "790c0a2bb7c28c273d68c5934eb8af627f6f7ac85dc4c8fe3ca5925528ab16bd",
+        "logicalPath": "./asset/icons/svg_5aeb3c6f.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_5aeb3c6f.svg\"\n  data-node-id=\"3:23\"\n  data-name=\"港股选股因子\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-200",
+    "name": "专业研报查询",
+    "nodeId": "3:200",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_f318beee.svg",
+        "sha256": "0f4deea43376627d914acfb80c931093bc6c2e39b8679590b686de2ccc56c075",
+        "logicalPath": "./asset/icons/svg_f318beee.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_f318beee.svg\"\n  data-node-id=\"3:200\"\n  data-name=\"专业研报查询\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-138",
+    "name": "托管估值核算",
+    "nodeId": "3:138",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_d704d616.svg",
+        "sha256": "b2401e639085a8659c8fd58259aab4549eca71992c76d99d5ce310a2baf8e2ef",
+        "logicalPath": "./asset/icons/svg_d704d616.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_d704d616.svg\"\n  data-node-id=\"3:138\"\n  data-name=\"托管估值核算\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-109",
+    "name": "公司估值模型",
+    "nodeId": "3:109",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_96acbdd3.svg",
+        "sha256": "6483b0c8a274ea0fb1ecff006f638ced16da41cc56b52716c63c7412b6a4c78b",
+        "logicalPath": "./asset/icons/svg_96acbdd3.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_96acbdd3.svg\"\n  data-node-id=\"3:109\"\n  data-name=\"公司估值模型\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-84",
+    "name": "ETF套利监控",
+    "nodeId": "3:84",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_878e21df.svg",
+        "sha256": "e1ecac877fa9b138d887889556b23d76fc9f73b449a369d9326df6655c63afd9",
+        "logicalPath": "./asset/icons/svg_878e21df.svg"
+      },
+      {
+        "path": "assets/originals/svg_8e22026d.svg",
+        "sha256": "8fb8d6b708c41a8532c57680582d1cee75da8db0f2ebd45bc5a94be62e0a9b7c",
+        "logicalPath": "./asset/icons/svg_8e22026d.svg"
+      },
+      {
+        "path": "assets/originals/svg_b99e934b.svg",
+        "sha256": "3063fd97a9ee05e575c0e318893ae5a5b4db9a11346a6982cb92eeb025b1d8ed",
+        "logicalPath": "./asset/icons/svg_b99e934b.svg"
+      }
+    ],
+    "sourceHtml": "<div\n  data-node-id=\"3:84\"\n  data-name=\"ETF套利监控\"\n  style=\"width: 60px; height: 60px; overflow: hidden; position: relative\">\n  <div\n    data-node-id=\"3:011\"\n    data-name=\"矩形 112\"\n    style=\"width: 60px; height: 60px; background: linear-gradient(180deg, #F5F7FF 0%, #EEEFFF 100%); border-style: solid; border-color: #E1E7EB; border-width: 0.75px; position: absolute; left: 0px; top: 6px; z-index: 0\"></div>\n  <div\n    data-node-id=\"3:012\"\n    data-name=\"组 338\"\n    style=\"position: absolute; left: 12px; top: 19px; z-index: 1\">\n    <img src=\"./asset/icons/svg_8e22026d.svg\" />\n  </div>\n  <div\n    data-node-id=\"3:86\"\n    data-name=\"组 339\"\n    style=\"width: 60px; height: 60px; position: absolute; left: 0px; top: 0px; z-index: 2\">\n    <div\n      data-node-id=\"3:95\"\n      data-name=\"矩形 112\"\n      style=\"width: 60px; height: 60px; background: linear-gradient(180deg, #F5F7FF 0%, #EEEFFF 100%); position: absolute; left: 0px; top: calc(100% - 60px + 0px); z-index: 0\"></div>\n    <div\n      data-node-id=\"3:88\"\n      data-name=\"组 338\"\n      style=\"position: absolute; left: 12px; top: 12.58px; z-index: 1\">\n      <img src=\"./asset/icons/svg_878e21df.svg\" />\n    </div>\n    <div\n      data-node-id=\"3:96\"\n      data-name=\"组 340\"\n      style=\"width: 60px; height: 60px; position: absolute; left: 0px; top: 0px; z-index: 2\">\n      <div\n        data-node-id=\"3:010\"\n        data-name=\"矩形 112\"\n        style=\"width: 60px; height: 60px; background: linear-gradient(180deg, #F5F7FF 0%, #EEEFFF 100%); position: absolute; left: 0px; top: calc(100% - 60px + 0px); z-index: 0\"></div>\n      <div\n        data-node-id=\"3:98\"\n        data-name=\"组 341\"\n        style=\"width: 35.25px; height: 30px; position: absolute; left: 12.75px; top: 15.15px; z-index: 1\">\n        <div\n          data-node-id=\"3:009\"\n          data-name=\"矩形 155\"\n          style=\"width: 30px; height: 21px; background: #0D59C4; border-radius: 1.6px; position: absolute; left: 5.25px; top: calc(100% - 30px + 0px); z-index: 0\"></div>\n        <div\n          data-node-id=\"3:99\"\n          data-name=\"联集 13\"\n          style=\"position: absolute; left: 0px; top: 5.1px; z-index: 1\">\n          <img src=\"./asset/icons/svg_b99e934b.svg\" />\n        </div>\n        <span\n          data-node-id=\"3:004\"\n          data-name=\"ETF\"\n          style=\"color: #FFFFFF; font-size: 10px; font-family: PingFang SC; font-weight: 600; line-height: 14px; position: absolute; left: 6px; top: calc(100% - 30px + 8.85px); z-index: 2\">\n          ETF\n        </span>\n      </div>\n    </div>\n  </div>\n</div>\n"
+  },
+  {
+    "id": "3-44",
+    "name": "合规风险引擎",
+    "nodeId": "3:44",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_5dd2781c.svg",
+        "sha256": "cd119b6c9a8a3dcb024152a1e97fa816e342bbcb15402cdcb35c3b15422bcd96",
+        "logicalPath": "./asset/icons/svg_5dd2781c.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_5dd2781c.svg\"\n  data-node-id=\"3:44\"\n  data-name=\"合规风险引擎\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-299",
+    "name": "企业概况查询",
+    "nodeId": "3:299",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_43d7c3b1.svg",
+        "sha256": "2457d767fe8f459dd69e9b253859d34a150ec50cb1cbd7a904c6a4f91132cc15",
+        "logicalPath": "./asset/icons/svg_43d7c3b1.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_43d7c3b1.svg\"\n  data-node-id=\"3:299\"\n  data-name=\"企业概况查询\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-089",
+    "name": "市值诊断",
+    "nodeId": "3:089",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_6e1afee1.svg",
+        "sha256": "b884bda7e34ce9a011901f98b2397811a7e170ac2aa4eb2e7237084b98d07fe7",
+        "logicalPath": "./asset/icons/svg_6e1afee1.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_6e1afee1.svg\"\n  data-node-id=\"3:089\"\n  data-name=\"市值诊断\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-150",
+    "name": "投关问答",
+    "nodeId": "3:150",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_842bc29d.svg",
+        "sha256": "03ded11e3b128f82d9f1ce08eeb83b47a310d48ab4725382463c7548815dff55",
+        "logicalPath": "./asset/icons/svg_842bc29d.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_842bc29d.svg\"\n  data-node-id=\"3:150\"\n  data-name=\"投关问答\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-320",
+    "name": "期权服务",
+    "nodeId": "3:320",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_950cd348.svg",
+        "sha256": "5eed47510d5a5e84731ab4ee048b1d037466c1e74435d582806ddddc41cccd42",
+        "logicalPath": "./asset/icons/svg_950cd348.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_950cd348.svg\"\n  data-node-id=\"3:320\"\n  data-name=\"期权服务\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-6",
+    "name": "绩效分析",
+    "nodeId": "3:6",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_bd93b694.svg",
+        "sha256": "1a9b0efc281589dfec7c41eb2ad56bab4c9e4344a041ac33b4ecc6d319f251f8",
+        "logicalPath": "./asset/icons/svg_bd93b694.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_bd93b694.svg\"\n  data-node-id=\"3:6\"\n  data-name=\"绩效分析\"\n  style=\"width: 60px; height: 60px\" />\n"
+  },
+  {
+    "id": "3-67",
+    "name": "运营数据",
+    "nodeId": "3:67",
+    "documentId": "205931991716288",
+    "documentPageId": "M",
+    "width": 60,
+    "height": 60,
+    "assets": [
+      {
+        "path": "assets/originals/svg_c55d7716.svg",
+        "sha256": "36a6536721e5b92720829b5d22d5ae3329824494f6f776ed64b0aa069624a618",
+        "logicalPath": "./asset/icons/svg_c55d7716.svg"
+      }
+    ],
+    "sourceHtml": "<img\n  src=\"./asset/icons/svg_c55d7716.svg\"\n  data-node-id=\"3:67\"\n  data-name=\"运营数据\"\n  style=\"width: 60px; height: 60px\" />\n"
+  }
+]
