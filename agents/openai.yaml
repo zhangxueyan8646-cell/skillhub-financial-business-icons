@@ -1,0 +1,4 @@
+interface:
+  display_name: "skillhub金融业务图标"
+  short_description: "按业务含义检索和复用已选金融图标，保留原始矢量与来源"
+  default_prompt: "使用 $skillhub-financial-business-icons 查找并复用匹配的金融业务图标，保留原始造型并说明必要的匹配歧义。"
